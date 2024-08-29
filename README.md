@@ -1,7 +1,7 @@
 # DiffusionE
-Official code for the paper "DiffusionE: Reasoning on Knowledge Graphs via Diffusion-based Graph Neural Networks"
+Official code for the KDD 2024 paper "DiffusionE: Reasoning on Knowledge Graphs via Diffusion-based Graph Neural Networks"
 
-And the official repo goes to https://github.com/Worker-AGI/DiffusionE/
+And the another official repo version goes to https://github.com/Worker-AGI/DiffusionE/
 
 ## Dependencies
 
